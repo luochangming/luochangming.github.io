@@ -1,35 +1,246 @@
 ---
 layout: default
-title:  "SDG"
+title:  "作品集"
 categories: SDG portfolio visualization
 ---
-## 概要
-《2017年可持续发展目标报告》回顾了在实施2030年可持续发展议程的第二年，17项目标的进展情况。该报告基于最新的可用数据，突出强调了随着国际社会越来越充分地认识到2030年议程所倡导的宏伟目标和原则，而面临的收获与挑战。
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<link rel="stylesheet" href="styless.css">
+    <h1>中国各省份的发达程度与粗离婚率的关系</h1>
+	<h2>C组成员：谢冠岚 何俊添 罗畅明 何丽华 王志伟 陈嘉劲</h2>
+		<div class="tab_container">
+			<input id="tab1" type="radio" name="tabs" checked>
+			<label for="tab1" class="abc"><i class="fa fa-file-text-o" aria-hidden="true"></i><span>作品简述</span></label>
 
-尽管过去十年在所有发展领域均取得了显著进展，但按照前几年的发展速度，不足以在2030年完全实现可持续发展目标具体目标。因此，时间非常紧迫。另外，如下文所示，进展并不总是均衡的。不同区域、不同性别、不同年龄、不同财富状况和不同居住地包括城乡之间，进步是不平衡的。要想实现2030年议程所勾画的宏伟愿景，需要速度更快、更包容的进展。
+			<input id="tab2" type="radio" name="tabs">
+			<label for="tab2" class="bcd"><i class="fa fa-usd" aria-hidden="true"></i><span>人均GDP</span></label>
 
-<div class="row img-rounded" style="padding:30px; box-shadow: 10px 10px 5px #888888; border: 1px solid #EA1D2D;">
-<div class="col-md-12">
-<div style="background: #EA1D2D; color:white" class="btn" markdown="1">
-#### 目标1：在全世界消除一切形式的贫困
-</div>
-</div>
-<div class="col-md-3"><!-- left -->
-生活在极端贫困中的人口数量显著下降   
-<img src="https://unstats.un.org/sdgs/report/2017/svg/goal-01.svg" alt="SDG 2017 Report Goal 1" style="width: 100%" type="image/svg+xml">
-社保系统对脆弱人群的覆盖率仍然不高
-</div> 
-<div class="col-md-9" markdown="1" ><!-- right -->
-让世界各地的人们得到所需的支持以摆脱一切形式的贫困，是可持续发展的本质。
+			<input id="tab3" type="radio" name="tabs">
+			<label for="tab3" class="cde"><i class="fa fa-map-o" aria-hidden="true"></i><span>文盲率</span></label>
 
-目标1侧重于通过促进社会保障制度、体面就业和加强穷人的抗风险能力建设等相关战略来消除贫困。
+			<input id="tab4" type="radio" name="tabs">
+			<label for="tab4" class="def"><i class="fa fa-wifi" aria-hidden="true"></i><span>互联网普及率</span></label>
 
-* 2013年估计有7.67亿人生活在极端贫困线以下，低于1999年的17亿人。这意味着全球极端贫困率从1999年的28%下降到2013年的11%。
-* 2016年，全球有近10%的就业人口与其家人每人每日生活费不足1.90美元。年轻工作者要更加脆弱：9%的成年工作者及其家人生活在极端贫困中，而青年工作者的这一比例为15%。
-* 2016年，全球的失业者只有22%领取了失业救济金，重度残疾人只有28%得到残疾抚恤金，儿童只有35%享有社会保障，产妇只有41%享有孕产福利，超过退休年龄的人口有68%领取养老金。
-* 自然灾害造成的经济损失每年平均达到2 500亿至3 000亿美元，对小国和脆弱国家影响尤甚。
-</div>
-</div>
+			<input id="tab5" type="radio" name="tabs">
+			<label for="tab5" class="efg"><i class="fa fa-jpy" aria-hidden="true"></i><span>居民人均消费水平</span></label>
+			
+			<input id="tab6" type="radio" name="tabs">
+			<label for="tab6" class="fgh"><i class="fa fa-user" aria-hidden="true"></i><span>失业率</span></label>
+
+			<input id="tab7" type="radio" name="tabs">
+			<label for="tab7" class="ghi"><i class="fa fa-jpy" aria-hidden="true"></i><span>城镇人员平均工资</span></label>
+			
+			<section id="content1" class="tab-content">
+				<h3>省份发达程度与离婚率的关系</h3>
+			    <p>全国各地区粗离婚率与人均消费水平、分省员工平均工资水平、文盲率、人均GDP及互联网普及率总体上成正比关系，与失业率大体成反比关系。但通过图表发现一地区人均消费水平保持平稳呈上升趋势，粗离婚率不一定保持平稳上升趋势；特殊省份如西藏，.黑龙江等员工工资水平不符合大体关系；新疆等地的互联网普及率成反比，西藏等地文盲率亦不符合大体规律，失业率譬如新疆等少数地区是呈反比关系。</p>
+			</section>
+
+			<section id="content2" class="tab-content">
+				<div class='tableauPlaceholder' id='viz1510834009085' style='position: relative'>
+					<noscript>
+						<a href=' '><img alt='人均GDP与粗离婚率的分析 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;3_&#47;3_896&#47;GDP&#47;1_rss.png' style='border: none' /></a>
+					</noscript>
+					<object class='tableauViz'  style='display:none;'>
+						<param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+						<param name='embed_code_version' value='3' /> 
+						<param name='site_root' value='' /><param name='name' value='3_896&#47;GDP' />
+						<param name='tabs' value='no' /><param name='toolbar' value='yes' />
+						<param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;3_&#47;3_896&#47;GDP&#47;1.png' />
+						<param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' />
+						<param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' />
+						<param name='display_count' value='yes' /><param name='filter' value='publish=yes' />
+					</object>
+				</div>                
+				<script type='text/javascript'>                    
+					var divElement = document.getElementById('viz1510834009085');                    
+					var vizElement = divElement.getElementsByTagName('object')[0];                    
+					vizElement.style.width='100%';vizElement.style.height='100%';                    
+					var scriptElement = document.createElement('script');                    
+					scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+					vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+				</script>
+			</section>
+
+			<section id="content3" class="tab-content">
+			    <div class='tableauPlaceholder' id='viz1510831889549' style='position: relative'>
+					<noscript>
+						<a href='#'><img alt='故事 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;_1&#47;_15803&#47;1_1&#47;1_rss.png' style='border: none' /></a>
+					</noscript>
+					<object class='tableauViz'  style='display:none;'>
+						<param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+						<param name='embed_code_version' value='3' /> <param name='site_root' value='' />
+						<param name='name' value='_15803&#47;1_1' /><param name='tabs' value='no' />
+						<param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;_1&#47;_15803&#47;1_1&#47;1.png' />
+						<param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' />
+						<param name='display_overlay' value='yes' /><param name='display_count' value='yes' />
+					</object>
+				</div>                
+				<script type='text/javascript'>                    
+					var divElement = document.getElementById('viz1510831889549');                    
+					var vizElement = divElement.getElementsByTagName('object')[0];                    
+					vizElement.style.width='100%';vizElement.style.height='100%';                    
+					var scriptElement = document.createElement('script');                    
+					scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+					vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+				</script>
+				<div class='tableauPlaceholder' id='viz1510836504587' style='position: relative'>
+					<noscript>
+						<a href='#'><img alt='故事 2 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;_1&#47;_15803&#47;2_1&#47;1_rss.png' style='border: none' /></a>
+					</noscript>
+					<object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
+						<param name='embed_code_version' value='3' /> <param name='site_root' value='' />
+						<param name='name' value='_15803&#47;2_1' /><param name='tabs' value='no' />
+						<param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;_1&#47;_15803&#47;2_1&#47;1.png' /> 
+						<param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' />
+						<param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' />
+						<param name='display_count' value='yes' />
+					</object>
+				</div>                
+				<script type='text/javascript'>                    
+					var divElement = document.getElementById('viz1510836504587');                    
+					var vizElement = divElement.getElementsByTagName('object')[0];                    
+					vizElement.style.width='100%';vizElement.style.height='100%';                    
+					var scriptElement = document.createElement('script');                    
+					scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+					vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+				</script>
+			</section>
+
+			<section id="content4" class="tab-content">
+				<div class='tableauPlaceholder' id='viz1510844553918' style='position: relative'>
+					<noscript>
+						<a href=' '><img alt='互联网普及率与粗离婚率的关系 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;_1&#47;_15702&#47;sheet4&#47;1_rss.png' style='border: none' /></a>
+					</noscript>
+					<object class='tableauViz'  style='display:none;'>
+						<param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
+						<param name='embed_code_version' value='3' /> <param name='site_root' value='' />
+						<param name='name' value='_15702&#47;sheet4' /><param name='tabs' value='no' />
+						<param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;_1&#47;_15702&#47;sheet4&#47;1.png' /> 
+						<param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' />
+						<param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' />
+						<param name='display_count' value='yes' /><param name='filter' value='publish=yes' />
+					</object>
+				</div>                
+				<script type='text/javascript'>                    
+					var divElement = document.getElementById('viz1510844553918');                    
+					var vizElement = divElement.getElementsByTagName('object')[0];                    
+					vizElement.style.width='100%';vizElement.style.height='100%';                    
+					var scriptElement = document.createElement('script');                    
+					scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+					vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+				</script>
+				<p>通过全国各地区互联网普及率与粗离婚率散点图证明两者间成正比关系；通过柱状图分析得出两者皆呈上升趋势；新疆离婚率与互联网普及率成反比最为特殊，因为其离婚率最高。通过互联网普及率与粗离婚率的仪表板可得出两者间即成正比关系，又因为个别原因，新疆等地区离婚率居高且下降幅度也大，所以新疆离婚率与互联网普及率成反比，但大体而言两者皆呈上升趋势</p>
+			</section>
+
+			<section id="content5" class="tab-content">
+				<div class='tableauPlaceholder' id='viz1510844659066' style='position: relative'>
+					<noscript>
+						<a href=' '><img alt='全国 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;he&#47;helihua&#47;sheet6&#47;1_rss.png' style='border: none' /></a>
+					</noscript>
+					<object class='tableauViz'  style='display:none;'>
+						<param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
+						<param name='embed_code_version' value='3' /> <param name='site_root' value='' />
+						<param name='name' value='helihua&#47;sheet6' /><param name='tabs' value='no' />
+						<param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;he&#47;helihua&#47;sheet6&#47;1.png' />
+						<param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' />
+						<param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' />
+						<param name='display_count' value='yes' /><param name='filter' value='publish=yes' />
+					</object>
+				</div>                
+				<script type='text/javascript'>                    
+					var divElement = document.getElementById('viz1510844659066');                    
+					var vizElement = divElement.getElementsByTagName('object')[0];                    
+					vizElement.style.width='100%';vizElement.style.height='100%';                    
+					var scriptElement = document.createElement('script');                    
+					scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+					vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+				</script>
+				<div class='tableauPlaceholder' id='viz1510844722152' style='position: relative'>
+					<noscript>
+						<a href=' '><img alt='北京 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;he&#47;helihua&#47;sheet3&#47;1_rss.png' style='border: none' /></a>
+					</noscript>
+					<object class='tableauViz'  style='display:none;'>
+						<param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
+						<param name='embed_code_version' value='3' /> <param name='site_root' value='' />
+						<param name='name' value='helihua&#47;sheet3' /><param name='tabs' value='no' />
+						<param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;he&#47;helihua&#47;sheet3&#47;1.png' /> 
+						<param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' />
+						<param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' />
+						<param name='display_count' value='yes' />
+					</object>
+				</div>                
+				<script type='text/javascript'>                    
+					var divElement = document.getElementById('viz1510844722152');                    
+					var vizElement = divElement.getElementsByTagName('object')[0];                    
+					vizElement.style.width='100%';vizElement.style.height='100%';                    
+					var scriptElement = document.createElement('script');                    
+					scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+					vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+				</script>
+				<p>总体趋势上看，地区人均消费水平与粗离婚率成正比关系，地区人均消费水平升高，粗离婚率也升高。</br>
+					1.并不是人均消费水平越高，粗离婚率也一定越高。通过对比上海和新疆的数据发现，上海的地区居民消费水平高于新疆，但是粗离婚率却低于新疆。通过论文的查阅得出，这和新疆的维吾尔族宗教信仰有关，新疆维吾尔族是支持一夫多妻的。</br>
+					2.一个地区的人均消费水平保持平稳呈上升趋势，粗离婚率不一定保持平稳上升趋势的。通过抽取出北京的居民消费水平和粗离婚率的数据发现，当人均消费水平逐年保持平稳上升的时候，粗离婚率出现小幅度的下降和大幅度的飙升状况。尤其是2013年和2015年飙升幅度最大，通过论文查阅得出，这和2013年以及2015年出台的房产限购政策有关。</br>
+				</p>
+			</section>
+			
+			<section id="content6" class="tab-content">
+				<div class='tableauPlaceholder' id='viz1510835878368' style='position: relative'>
+					<noscript>
+						<a href=' '><img alt='故事 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;2_&#47;2_1961&#47;1_2&#47;1_rss.png' style='border: none' /></ a>
+					</noscript>
+					<object class='tableauViz'  style='display:none;'>
+						<param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
+						<param name='embed_code_version' value='3' /> <param name='site_root' value='' />
+						<param name='name' value='2_1961&#47;1_2' /><param name='tabs' value='no' />
+						<param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;2_&#47;2_1961&#47;1_2&#47;1.png' /> 
+						<param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' />
+						<param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' />
+						<param name='display_count' value='yes' /><param name='filter' value='publish=yes' />
+					</object>
+				</div>                
+				<script type='text/javascript'>                    
+					var divElement = document.getElementById('viz1510835878368');                    
+					var vizElement = divElement.getElementsByTagName('object')[0];                    
+					vizElement.style.width='100%';vizElement.style.height='100%';                    
+					var scriptElement = document.createElement('script');                    
+					scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                   
+					vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+				</script>
+			</section>
+			
+			<section id="content7" class="tab-content">
+				<div class='tableauPlaceholder' id='viz1510839085241' style='position: relative'>
+					<noscript>
+						<a href='#'><img alt='仪表板 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;_1&#47;_15796&#47;1_1&#47;1_rss.png' style='border: none' /></a>
+					</noscript>
+					<object class='tableauViz'  style='display:none;'>
+						<param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
+						<param name='embed_code_version' value='3' /> <param name='site_root' value='' />
+						<param name='name' value='_15796&#47;1_1' /><param name='tabs' value='no' />
+						<param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;_1&#47;_15796&#47;1_1&#47;1.png' />
+						<param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' />
+						<param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' />
+						<param name='display_count' value='yes' />
+					</object>
+				</div>                
+				<script type='text/javascript'>                    
+					var divElement = document.getElementById('viz1510839085241');                    
+					var vizElement = divElement.getElementsByTagName('object')[0];                    
+					vizElement.style.width='100%';vizElement.style.height='100%';                    
+					var scriptElement = document.createElement('script');                    
+					scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+					vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+				</script>
+				<p>随着社会的发展，城镇人员工资增长，人们物质能力增强了，个人经济收入分开了，都拥有了自己的生活能力。有自己的生活能力，有钱了，个人经济收入分开，这个在我觉得是影响离婚率的一个原因。</p>
+			</section>
+			
+		</div>
+
+<p class="no_wrap">
+数据来源：
+<a href="http://data.stats.gov.cn/" target="_blank">国家数据网<a/>
+</p>
+	
 
 ## 参考来源
 * [SDG 2017报告：全文-中文](https://unstats.un.org/sdgs/files/report/2017/TheSustainableDevelopmentGoalsReport2017_Chinese.pdf)
