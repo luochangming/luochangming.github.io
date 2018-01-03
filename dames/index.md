@@ -4,8 +4,8 @@ title:  "Web"
 date:   2017-11-30 22:07:50 +0800
 categories: posts rwd
 image:
-  teaser: pingmiansheji.jpg
-  feature:  apple-touch-icon-precomposed.png
+  teaser: apple-touch-icon-precomposed.png
+  feature:  
 ---
 ## web学习笔记
 
