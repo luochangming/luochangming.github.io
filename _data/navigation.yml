@@ -1,12 +1,12 @@
 # Site navigation links
 
 - title: 信息可视化作品集
-  url: /infovis/
+  url: /works/
   excerpt: "tableau"
-  image: tableau1.gif
+  image: 可视化.png
 
 - title: 作品集
-  url: /work/
+  url: /works/
   excerpt: "其中作业"
   image: 可视化.png
 
