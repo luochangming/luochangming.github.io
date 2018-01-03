@@ -5,7 +5,7 @@ date:   2017-11-30 22:07:50 +0800
 categories: posts rwd
 image:
   teaser: pingmiansheji.jpg
-  feature:  card.png
+  feature:  apple-touch-icon-precomposed.png
 ---
 ## web学习笔记
 
