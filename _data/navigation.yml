@@ -6,9 +6,9 @@
   image: tableau1.gif
 
 - title: 作品集
-  url: /portfolio/
-  excerpt: "html网页"
-  image: web.jpg
+  url: /work/
+  excerpt: "其中作业"
+  image: 可视化.png
 
 - title: 信息可视化笔记
   url: /posts/infovis/
