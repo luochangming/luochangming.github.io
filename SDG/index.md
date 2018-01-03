@@ -3,7 +3,7 @@ layout: default
 title:  "作品集"
 categories: SDG portfolio visualization
 ---
-	<meta charset="utf-8">
+<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width">
 	<link rel="stylesheet" href="styless.css">
     <h1>中国各省份的发达程度与粗离婚率的关系</h1>
@@ -236,12 +236,3 @@ categories: SDG portfolio visualization
 			
 		</div>
 
-<p class="no_wrap">
-数据来源：
-<a href="http://data.stats.gov.cn/" target="_blank">国家数据网<a/>
-</p>
-	
-
-## 参考来源
-* [SDG 2017报告：全文-中文](https://unstats.un.org/sdgs/files/report/2017/TheSustainableDevelopmentGoalsReport2017_Chinese.pdf)
-* [SDG 2017报告：目标1-英文](https://unstats.un.org/sdgs/report/2017/goal-01/)
