@@ -6,8 +6,8 @@ modified:
 excerpt: "涉及到visualization的内容"
 tags: []
 image:
-  feature: note.gif
-  teaser: note.gif
+  feature: green.jpg
+  teaser: 
 ---
 
 <div class="tiles">
