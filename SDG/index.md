@@ -457,7 +457,7 @@
                                     </div>
                                     
                                         <div class="showMore">
-                                            <div class="newsMore" data-page="1" data-cid="13"><a class="borderLink" href="javascript:void(0);">更多新闻</a></div>
+                                            <div class="newsMore" data-page="1" data-cid="13"><a class="borderLink" href="javascript:void(0);">更多新闻http://bbs.hs.blizzard.cn/</a></div>
                                         </div>
                                         
                                 </div>
