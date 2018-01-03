@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
@@ -23,7 +23,6 @@
             <div id="content-bot">
                         
             <!-- <video id="headerFlash" autoplay="autoplay" loop="true" preload="auto" width="1200" height="224">
-    <source src="http://hearthstone.nos.netease.com/3/home/20151114/header_v2.webm" type="video/webm" />
     <source src="http://hearthstone.nos.netease.com/3/home/20151114/header_v2.mp4" type="video/mp4" />
 </video> -->
 <!-- <div class="video-mask"></div> -->
@@ -206,42 +205,8 @@
                                                                             </div>
                                                             </div>
                                                         </li>
-                                                        
-                                                            
+ 
                                                     
-                                                            
-                                                    
-                                                            
-                                                    
-                                                            
-                                                    
-                                                            
-                                                    
-                                                            
-                                                    
-                                                            
-                                                    
-                                                            
-                                                    
-                                                            
-                                                    
-                                                            
-                                                    
-                                                            
-                                                    
-                                                            
-                                                    
-                                                            
-                                                    
-                                                            
-                                                    
-                                                            
-                                                    
-                                                            
-                                                    
-                                                            
-                                                    
-                                                            
                                                                 
                                     </ul>
                                     <a id="news_13"></a>
@@ -485,24 +450,7 @@
                                                         </div>
                                                         
                                                             
-                                                    
-                                                            
-                                                    
-                                                            
-                                                    
-                                                            
-                                                    
-                                                            
-                                                    
-                                                            
-                                                    
-                                                            
-                                                    
-                                                            
-                                                    
-                                                            
-                                                    
-                                                            
+                  
                                                     
                                                             
                                                                 
