@@ -6,8 +6,8 @@ modified:
 excerpt: "含信息可视化和网页制作的个人作品"
 tags: []
 image: 
-  feature: frog.gif
-  teaser:
+  feature: 可视化.png
+  teaser: lus.gif.gif
 ---
 
 
