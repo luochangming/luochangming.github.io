@@ -16,8 +16,6 @@
 <link rel="stylesheet" href="https://fs.bnet.163.com/css/module/footer.css?t=1514367632848">
     <link rel="stylesheet" href="/css/2cc20b65.news.css" type="text/css" media="all" />
 </head>
-
-
     <body>
         <div id="wraper" data-nav="2">
             <div id="content-bot">
@@ -114,7 +112,6 @@
         </ul>
     </div>
 </div>
-
                 <!--    container -->
                 <div id="container">
 
@@ -129,11 +126,7 @@
                             <div class="newsWrap">
                                 <div id="newsEye">
                                     <ul class="featured-news">
-                                        
-                                            
-                                                
-                                                    
-                                                        <li topic-key="A-4539" data-type="5">
+                                           <li topic-key="A-4539" data-type="5">
                                                             <div class="article-wrapper">
                                                                 
                                                                     <a href="http://hs.blizzard.cn/article/16/11824" class="featured-news-link" target="_blank">
@@ -157,8 +150,7 @@
                                                         </li>
                                                         
                                                             
-                                                    
-                                                        <li topic-key="A-11654" data-type="5">
+                                                    <li topic-key="A-11654" data-type="5">
                                                             <div class="article-wrapper">
                                                                 
                                                                     <a href="http://hs.blizzard.cn/article/16/11477" class="featured-news-link" target="_blank">
@@ -180,8 +172,7 @@
                                                                             </div>
                                                             </div>
                                                         </li>
-                                                        
-                                                            
+                                                    
                                                     
                                                         <li topic-key="A-6016" data-type="5">
                                                             <div class="article-wrapper">
@@ -206,7 +197,6 @@
                                                             </div>
                                                         </li>
  
-                                                    
                                                                 
                                     </ul>
                                     <a id="news_13"></a>
@@ -251,7 +241,6 @@
                                                                         </p>
                                                         </div>
                                                         
-                                                            
                                                     
                                                         <div class="listNewsWrap listNewsWrapF" topic-key="A-12056" data-type="1">
                                                             
@@ -272,10 +261,8 @@
                                                                                     <span class="time">2018-01-02</span>
                                                                         </p>
                                                         </div>
-                                                        
-                                                            
-                                                    
-                                                        <div class="listNewsWrap listNewsWrapF" topic-key="A-12026" data-type="1">
+                                                  
+                                                  <div class="listNewsWrap listNewsWrapF" topic-key="A-12026" data-type="1">
                                                             
                                                                         <a class="listNewsItem" href="/article/16/12026" target="_blank">
                                                                             
@@ -509,8 +496,3 @@
 			</script>
 
 		<!-- END NetEase Devilfish 2006 -->
-
-
-    </body>
-
-</html>
