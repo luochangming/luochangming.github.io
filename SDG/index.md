@@ -3,14 +3,14 @@
 
 <head>
             <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-        <meta name="copyright" content="&copy;2016 暴雪娱乐有限公司版权所有 上海网之易网络科技发展有限公司" />
+        <meta name="copyright" content="&copy;2016 上海网之易网络科技发展有限公司" />
         <meta content="width=1200,maximum-scale=1.0" name="viewport" />
         <meta content="black" name="apple-mobile-web-app-status-bar-style" />
 	    <meta name="keywords" content="炉石传说,国服,炉石传说官网,炉石，炉石传说下载,炉石传说卡组,暴雪,卡牌游戏,炉石传说扩展包,炉石手机版,炉石传说充值,魔兽英雄传,炉石传说手机版，炉石手机版，上古之神的低语,卡拉赞之夜，龙争虎斗加基森, 加基森，勇闯安戈洛，冰封王座的骑士，狗头人与地下世界" />
 	    <meta name="description" content="暴雪免费卡牌游戏大作《炉石传说》全新扩展包——“狗头人与地下世界”现已上线，登录即送3包新卡包及一张传说武器卡牌。 " />
         <link rel="icon" href="http://hearthstone.nos.netease.com/3/common/hs.ico" type="image/x-icon"/>
         <link rel="shortcut icon" href="http://hearthstone.nos.netease.com/3/common/hs.ico" type="image/x-icon"/>
-    <title>新闻中心 _《炉石传说》官方网站_暴雪首款免费休闲卡牌网游</title>
+    <title>新闻中心 _《炉石传说》</title>
     <link rel="stylesheet" href="/css/bcb24059.features.min.css"/>
 <link rel="stylesheet" href="https://fs.bnet.163.com/css/nav-bar.css?t=1514367632848">
 <link rel="stylesheet" href="https://fs.bnet.163.com/css/module/footer.css?t=1514367632848">
