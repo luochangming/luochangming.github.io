@@ -6,8 +6,8 @@ modified:
 excerpt: "涉及到visualization的内容"
 tags: []
 image:
-  feature: green.jpg
-  teaser: 
+  feature: Tower_of_Babel.jpg
+  teaser: Tower_of_Babel.jpg
 ---
 
 <div class="tiles">
