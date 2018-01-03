@@ -11,16 +11,16 @@
   image: lus.gif.gif
 
 - title: 信息可视化笔记
-  url: /_posts/2017-11-30-Ruby.md/
+  url: /_posts/
   excerpt: "notes"
   image: lus.gif.gif
   
 - title: 网页笔记
-  url: /_posts/rwd/
+  url: /_posts/
   excerpt: "posts"
   image: lus.gif.gif
   
 - title: 寻找作者
-  url: /_posts/adss/
+  url: /_posts/
   excerpt: "联络我"
   image: lus.gif.gif
