@@ -9,7 +9,7 @@
     @include fill-parent;
   }
   @include media(new-breakpoint(min-width em(480) 12)) {
-    @include span-columns(3);
+    @include span-columns(5);
     @include omega(4n);
   }
   .entry-date {
@@ -25,7 +25,7 @@
   }
   .post-teaser {
     position: relative;
-    display: block;
+    display: red;
     &:after {
       content: '';
       position: absolute;
