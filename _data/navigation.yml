@@ -3,17 +3,17 @@
 - title: 信息可视化作品集
   url: /works/
   excerpt: "tableau"
-  image: 可视化.png
+  image: lus.gif.gif
 
 - title: 作品集
   url: /works/
-  excerpt: "其中作业"
+  excerpt: "web"
   image: lus.gif.gif
 
 - title: 信息可视化笔记
   url: /posts/infovis/
   excerpt: "notes"
-  image: note.gif
+  image: 可视化.png
   
 - title: 网页笔记
   url: /posts/rwd/
