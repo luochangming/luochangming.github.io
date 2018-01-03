@@ -88,22 +88,8 @@
                     <li>
                         <a href="/media/#wallpaper">壁纸</a>
                     </li>
-                </ul>
-            </li>
-            <li class="nav5">
-                <a hidefocus="true" href="/cards/" ></a>
-            </li>
-            <li class="nav6">
-                <a hidefocus="true" href="/download/" ></a>
-            </li>
-            <li class="nav7">
-                <a hidefocus="true" href="javascript:;" ></a>
-                <ul>
-                    <li>
+         
                         <a href="/standings/">积分排名</a>
-                    </li>
-                </ul>
-            </li>
             <li class="nav8">
                 <a hidefocus="true" href="http://bbs.hs.blizzard.cn/" target="_blank" ></a>
             </li>
