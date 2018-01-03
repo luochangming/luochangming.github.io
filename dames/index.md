@@ -1,0 +1,100 @@
+---
+layout: article
+title:  "Web"
+date:   2017-11-30 22:07:50 +0800
+categories: posts rwd
+image:
+  teaser: pingmiansheji.jpg
+  feature:  pingmiansheji.jpg
+---
+## web学习笔记
+
+做平面设计/图型设计（Graphic Design）
+
+![image](http://webstyleguide.com/wsg3/figures/7-page-design/7-11-700.jpg)
+
+CSS3新增了两种声明颜色的格式：**RGB**和**HSL**此外，这两种颜色模式还支持alpha 通道（RGBA和HSLA）。    
+
+RGB（Red Green Blue，红绿蓝）是一种沿用了几十年的颜色系统，原理是分别定义红、绿、 蓝三原色分量的值。  
+HSL（Hue[色相] Saturation[饱和度] Lightness[亮度]）
+后面的饱和度和亮度是采用百分比的形式
+
+alpha通道 指 定一个不透明度值，取值范围为0（完全透明）到1（完全不透明）。
+
+渐变种类有:  
+linear-gradient（线性渐变）,  
+radial-gradient（径向渐变）,    
+repeating-linear-gradient,  
+repeating-radial-gradient。
+
+外阴影常规效果     
+box-shadow:5px 5px rgba(0,0,0,.6);  
+外阴影模糊效果  
+box-shadow:5px 5px 5px rgba(0,0,0,.6);  
+外阴影模糊外延效果  
+box-shadow:5px 5px 5px 10px rgba(0,0,0,.6);     
+内阴影效果      
+box-shadow:2px 2px 5px 1px rgba(0,0,0,.6) inset;   
+外阴影模糊效果
+box-shadow:5px 5px 5px rgba(0,0,0,.6);
+
+##### week14 
+随堂测试 + SVG  
+###### 位图／点阵图或 光栅图　Bitmap or raster images
+位图/点阵图 (bitmap) 或称光栅图 (raster) 图像是由像素 (pixels，也就是图片元
+素) 为基本单元所组成的细粒网格。每个像素都有其特定的颜色，因此由於像
+素很小丶又可以是数百万种颜色中的任何一色，所以光栅图像格式通常用于
+照片和复杂的图稿。
+
+###### 矢量图像 Vector images  
+矢量图使用线条丶多边形丶点丶曲线和填充效果的数学描述来创建图像。矢
+量图像通常是简单和图解形式的，像图（graphs）丶数据图（charts）和图解
+（diagrams）；矢量图很少有光栅图（如照片）有深度或复杂度。但是矢量
+图，和光栅图相比具有一些重要的优势：
+- 文档小，下载得快
+- 矢量图像可以缩放到任何大小，而不减损其质量
+- 虽然矢量图大多是图解式的，若配加以复杂的阴影和颜色，矢量图可以
+变得非常写实	
+###### 可伸缩矢量图形 Scalable vector graphics—SVG
+svg 图像是一种矢量图，以开放格式的 xml 文件类型保存，而不是像
+Adobe Illustrator (.ai) 文件那样的產權专有的矢量图像格式。大多数 .ai 图
+形可以保存在 svg 格式，进而直接用于网页上。作为矢量图， svg 图形可以
+缩放到任何大小，而没有质量损失；由於其文档大小是紧凑的，因此在移动
+应用和响应网站创建图形方面， svg 越来越流行，至少对于相对简单的图像
+和形状来说。	
+###### CSS 图形 CSS-based graphics
+长期以来，层叠样式表 (css) 的视觉样式功能被拿来创建简单或复杂的图形
+效果，单靠 css 代码在网页上的使用。可能最常见的 css 图形是图形按钮
+(buttons)，纯 css 的技术拿來把简单的 html spans, divs, 及链接 转换成任何
+颜色或形状的图形按钮，可加配有阴影丶边缘丶阴影丶悬停和点击状态等等
+效果。css 技术能实际上没有內嵌 jpeg, gif, or png 图形，就单靠 html 元素
+在网页上创建复杂的图形效果。
+###### 图标字体 Icon fonts
+图标字体 (icon fonts) 提供了一种简便方法，把数十甚至数百个矢量符号和
+图标，一次以非常紧凑的形式加载至网站中。不同於一般计算机字体提供的
+是文字字母和数字字符 (alphanumeric characters) ，图标字体存的是各式图
+标，这样只需一次 http 请求，网页就能有数以百计的矢量符号可用。图
+标字体允许您轻松地使用 css 来更改图标的大小丶颜色丶阴影效果或其他图
+标的图形特点。
+
+SVG 详情可见书本WSG的第七章
+
+#### week16 
+- css3过渡、变形和动画
+
+###### 1.过渡的相关属性    
+ **transition-property**: 要过渡的CSS属性的名字（如background-color 、 text-shadow或者all，all会过渡所有可以过渡的属性.    
+ **transition-duration**:
+ 定义过渡效果持续的时长（用秒进行定义，例如.3s、2s或 1.5s    
+**transition-timing-function**:定义过渡期间的速度变化（例如ease、linear- ease-in、ease-out、ease-in-out或者cubic-bezier）。   
+**transition-delay**:可选，用于定义过渡开始前的延迟时间。相反，将值设置为一个负数，可以让过渡效果立即开始，但过渡旅程会在半路结束。同样是用秒进行定义，例 如.3s、2s或2.5s。 
+
+###### 2.2D变形
+scale：用来缩放元素（放大和缩小）   
+translate：在屏幕上移动元素（上下左右） 
+rotate：按照一定角度旋转元素（单位为度） 
+skew：沿X和Y轴对元素进行斜切     
+matrix：允许你以像素精度来控制变形效果
+
+3D属性等
+详情见书本第八章内容
