@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "最新文章"
+title: "葵花宝典"
 ---
 
 <div class="tiles">
