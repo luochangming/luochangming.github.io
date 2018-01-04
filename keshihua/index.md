@@ -9,7 +9,6 @@ image:
   feature: Tower_of_Babel.jpg
   teaser: Tower_of_Babel.jpg
 ---
-meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="css/styles.css">
 <div class='tableau1' style='width:1300; height:600;'> 
