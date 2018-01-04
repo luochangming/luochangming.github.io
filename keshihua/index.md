@@ -9,6 +9,9 @@ image:
   feature: Tower_of_Babel.jpg
   teaser: Tower_of_Babel.jpg
 ---
+<p>概要
+以欢乐世界，海底公园，主题公园，旋转木马为keywords。通过对比全国欢乐世界分布发现，数据结果遵循了人口分布规律，欢乐世界主要集中在人口密布的城市地区；通过树形图统计分析，江苏为游乐设施聚集最多的省份，同时，游乐设施场所并非按照城市经济发达程度排序，故游乐设施场所分布与城市经济发达程度关系不大。
+</p>
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="css/styles.css">
 <div class='tableau1' style='width:1300; height:600;'> 
