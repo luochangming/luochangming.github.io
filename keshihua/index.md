@@ -12,8 +12,8 @@ image:
 meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="css/styles.css">
-<div class='tableau1' style='width:1350; height:600;'> 
-<iframe src="https://public.tableau.com/profile/.31354527#!/vizhome/_18170/1_1" width="1350" height="600"></iframe> 
+<div class='tableau1' style='width:1300; height:600;'> 
+<iframe src="https://public.tableau.com/profile/.31354527#!/vizhome/_18170/1_1" width="1300" height="600"></iframe> 
 </div>
  
 <div class="tiles">
