@@ -22,15 +22,7 @@
                         
             <!-- <video id="headerFlash" autoplay="autoplay" loop="true" preload="auto" width="1200" height="224">
     <source src="http://hearthstone.nos.netease.com/3/home/20151114/header_v2.mp4" type="video/mp4" />
-</video> -->
-<!-- <div class="video-mask"></div> -->
- <ul id="scene" class="card-features">
-        <li class="layer card-1" data-depth="0.15"><img src="http://hearthstone.nos.netease.com/3/activities/kobolds/home_card_01.png"/></li>
-        <li class="layer card-2" data-depth="0.25"><img src="http://hearthstone.nos.netease.com/3/activities/kobolds/home_card_02.png"/></li>
-        <li class="layer card-3" data-depth="0.13"><img src="http://hearthstone.nos.netease.com/3/activities/kobolds/home_card_03.png"/></li>
-        <li class="layer card-4" data-depth="0.30"><img src="http://hearthstone.nos.netease.com/3/activities/kobolds/home_card_04.png"/></li>
-        <li class="layer card-5" data-depth="0.20"><img src="http://hearthstone.nos.netease.com/3/activities/kobolds/home_card_05.png"></li>
-</ul>
+
 <div id="header">
     <h1 class="logo"><a href="/home"></a></h1>
     <div class="c-search" id="j-search">
@@ -48,20 +40,7 @@
                     <li>
                         <a href="/news?new#news">最新</a>
                     </li>
-                    <li>
-                        <a href="/news?blog#news">博文</a>
-                    </li>
-                    <li>
-                        <a href="/news?match#news">赛事</a>
-                    </li>
-                    <li>
-                        <a href="/news?events#news">活动</a>
-                    </li>
-                    <li>
-                        <a href="/news?media#news">媒体</a>
-                    </li>
-                </ul>
-            </li>
+            
             <li class="nav3">
                 <a hidefocus="true" href="/gameguide/" ></a>
                 <ul>
@@ -251,14 +230,6 @@
                                                   <div class="listNewsWrap listNewsWrapF" topic-key="A-12026" data-type="1">
                                                             
                                                                         <a class="listNewsItem" href="/article/16/12026" target="_blank">
-                                                                            
-                                                                                <img src="http://hearthstone.nos.netease.com/a/images/2018/1/1/87RY9NVIWN6E1513820785672.jpg" alt="">
-                                                                                <h4>
-                                                                                    排名对战2018年一月赛季——霜火共舞
-                                                                                </h4>
-                                                                                <p class="listNewsIntro">
-                                                                                    《炉石传说》2018年一月对战赛季已经打响——而我们又将为大家带来新的卡牌背面图案！
-                                                                                </p>
                                                                         </a>
                                                                         <p class="listNewsComment">
                                                                             
@@ -389,44 +360,8 @@
                                                                                     2017年排名对战十一月赛季标准模式排行榜
                                                                                 </h4>
                                                                                 <p class="listNewsIntro">
-                                                                                    2017年《炉石传说》排名对战十一月赛季标准模式的最终排名已经出炉！祝贺排名榜单上的玩家！
-                                                                                </p>
-                                                                        </a>
-                                                                        <p class="listNewsComment">
-                                                                            
-                                                                                <span class="comments"></span>
-                                                                                
-                                                                                    <span class="time">2017-12-25</span>
-                                                                        </p>
-                                                        </div>
-                                                        
-                                                            
-                                                    
-                                                        <div class="listNewsWrap listNewsWrapF" topic-key="A-11960" data-type="1">
-                                                            
-                                                                        <a class="listNewsItem" href="/article/31/11960" target="_blank">
-                                                                            
-                                                                                <img src="http://hearthstone.nos.netease.com/1/zz/201703/17wild260x130.jpg" alt="">
-                                                                                <h4>
-                                                                                    2017年排名对战十一月赛季狂野模式排行榜
-                                                                                </h4>
-                                                                                <p class="listNewsIntro">
-                                                                                    2017年《炉石传说》排名对战十一月赛季狂野模式的最终排名已经出炉！祝贺排名榜单上的玩家！
-                                                                                </p>
-                                                                        </a>
-                                                                        <p class="listNewsComment">
-                                                                            
-                                                                                <span class="comments"></span>
-                                                                                
-                                                                                    <span class="time">2017-12-25</span>
-                                                                        </p>
-                                                        </div>
-                                                        
-                                                            
-                  
-                                                    
-                                                            
-                                                                
+                                      
+                                                              
                                     </div>
                                     
                                         <div class="showMore">
